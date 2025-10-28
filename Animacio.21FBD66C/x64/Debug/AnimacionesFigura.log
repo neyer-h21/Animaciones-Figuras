@@ -1,0 +1,9 @@
+﻿  Circulo.cpp
+  Figura.cpp
+  FrmFiguras.cpp
+  GestorFiguras.cpp
+  Principal.cpp
+  Rectangulo.cpp
+  Generando código...
+  Circulo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  AnimacionesFigura.vcxproj -> C:\Proyectos\AnimacionesFigura\x64\Debug\AnimacionesFigura.exe

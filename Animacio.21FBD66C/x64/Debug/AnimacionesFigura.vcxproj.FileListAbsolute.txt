@@ -1,0 +1,3 @@
+C:\Proyectos\AnimacionesFigura\Animacio.21FBD66C\x64\Debug\AnimacionesFigura.vcxproj.AssemblyReference.cache
+C:\Proyectos\AnimacionesFigura\Animacio.21FBD66C\x64\Debug\AnimacionesFigura.FrmFiguras.resources
+C:\Proyectos\AnimacionesFigura\Animacio.21FBD66C\x64\Debug\AnimacionesFigura.vcxproj.GenerateResource.cache

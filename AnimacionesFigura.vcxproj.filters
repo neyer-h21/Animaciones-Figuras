@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Model">
+      <UniqueIdentifier>{d61991fd-744d-42a6-8af8-1f9cb1cfa01c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{c1a5d942-1b02-49cf-bcda-b4db3e27698f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Service">
+      <UniqueIdentifier>{5b541bfb-7baf-405f-82fc-53bddd5434f9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Principal.cpp" />
+    <ClCompile Include="FrmFiguras.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Circulo.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Figura.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangulo.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="GestorFiguras.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FrmFiguras.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Circulo.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Figura.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangulo.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="GestorFiguras.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
